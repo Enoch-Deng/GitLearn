@@ -11,4 +11,3 @@ in your local repository.
 4. push - Upload Git commits to a remote repo like Github. 
 5. pull - Download changes from remote repo to your local machine, the opposite of push. 
 
-
